@@ -1,0 +1,26 @@
+GOVERNMENT AGENCY NAME,Appeal relating to allocation/tenancy & lease management matters,Bicycle or E-scooter matters,Civil legal aid,Disruption,Education,Employment Assistance and Career Services,Estate Renewal / Flat Maintenance Matters,Financial Assistance (eg: employment assistance),Funding eligibility,Income Tax on Employees (SC & PRs),Lease Admin Matters,Local assistance scheme,"Long Term Visit Pass, Student's Pass, Extension of Stay, Entry Visa","Market & hawker stall issues (e.g. reduce/wavier of charges, arrears etc.)",MediShield Life / Integrated Plan,"Migrant Workers Management (e.g. Employment agency, migrant domestic workers, illegal employment, phantom workers)",Mosquito breeding offence,Nomination,Nuisance,"Occupational safety & health (e.g. Work injury compensation, injury reporting, licensing matters, unsafe workplace practices)",Other police licences,Others,Others / Matters related to police case,Permanent Residence,Public Housing,Re-Entry Permit,Renting from HDB,Report of regulatory breaches or misconduct by financial institution or its representative,Request for financial assistance,Request for financial assistance for person with disability,Request to explore the community care and support for the resident,Sales Matters,Silver Support Scheme,Singapore Citizenship,Tenancy Matters (Rental Flats only),Traffic offences,"Work Pass matters (e.g. Work pass applications & renewals, quotas, levy, marriage approvals)"
+Agency for Integrated Care (AIC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Central Provident Fund Board (CPF),0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+Energy Market Authority (EMA),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Housing & Development Board (HDB),0,0,0,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,1,0,0,12,0,0,0,0,4,0,0,0,0,14,0,0,3,0,0
+Inland Revenue Authority of Singapore (IRAS),0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JTC Corporation (JTC),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Land Transport Authority (LTA),0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MAS - Report of regulatory breaches or misconduct by financial institutions/representative (MAS-FI),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+MHA - Immigration & Checkpoints Authority of Singapore (ICA),0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,8,0,1,0,0,0,0,0,0,0,5,0,0,0
+MHA - Singapore Police Force: Police Case (SPF-PC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MHA - Singapore Police Force: Police Licence (SPF-PL),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MHA - Singapore Police Force: Traffic Police (SPF-TP),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+MHA - Singapore Prison Service (SPS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ministry of Defence (MINDEF),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ministry of Education (MOE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ministry of Health (MOH),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Ministry of Law (MLAW),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ministry of Manpower (MOM),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Ministry of Social and Family Development Social Service Office @ Bedok (SSO-BK),0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+National Environment Agency (NEA),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PA Bedok CC (BKCC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PA Kampong Chai Chee CC (KCCCC),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Singapore Food Agency (SFA),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SkillsFuture Singapore (SSG),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Workforce Singapore (WSG),0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
